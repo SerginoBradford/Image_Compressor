@@ -12,14 +12,14 @@ make
 ```
 
 ## HOW TO BUILD
-Clone and go into `B-FUN-400-COT-4-1-compressor-hamidou.tessilimi` directory.
+Clone and go into `Image_Compressor` directory.
 Then,
 ```bash
 $ make
 ```
 
 ## USAGE
-Type `./imageCompressor -h` to displat help
+Type `./imageCompressor -h` to display help
 
 ## WARNING
 
